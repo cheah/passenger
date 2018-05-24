@@ -3,7 +3,8 @@
 	url = https://github.com/phusion/passenger_rpm_automation.git
 [submodule "packaging/debian"]
 	path = packaging/debian
-	url = https://github.com/phusion/passenger_apt_automation.git
+	url = https://github.com/cheah/passenger_apt_automation.git
+	branch = master-pagespeed
 [submodule "build/support/vendor/cxxcodebuilder"]
 	path = build/support/vendor/cxxcodebuilder
 	url = https://github.com/phusion/cxxcodebuilder.git
